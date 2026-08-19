@@ -66,16 +66,9 @@
 
 **React.js · Node.js · Express.js · MongoDB · JavaScript**
 
-A full-stack platform for reporting and managing lost and found items.
+A full-stack web application for reporting, managing, and matching lost and found items.
 
-**Key features:**
-- User authentication
-- Lost and found item reporting
-- Item matching
-- Location/map integration
-- Backend REST APIs
-- Database management
-- Frontend and backend architecture
+🔗 **Repository:** [Lost and Found Management System](https://github.com/ashwin777-ctrl/Lost-And-Found-Management-System)
 
 ---
 
@@ -83,17 +76,9 @@ A full-stack platform for reporting and managing lost and found items.
 
 **Python · Flask · Scikit-learn · Pandas · TF-IDF · Random Forest**
 
-An AI-based email management system that analyzes email content, detects spam, predicts email priority, and intelligently manages notifications.
+An AI-based email management system that analyzes email content, detects spam, predicts email priority, and intelligently manages notifications using machine learning and user behavior analysis.
 
-**Key features:**
-- Email priority prediction
-- Spam detection
-- TF-IDF text processing
-- Random Forest classification
-- User behavior analysis
-- Sender and domain rules
-- Accuracy and confusion matrix visualization
-- Flask web application
+🔗 **Repository:** [AI-Based Smart Email Priority and Notification System](https://github.com/ashwin777-ctrl/AI-Based-Smart-Email-Priority-and-Notification-System)
 
 ---
 
@@ -101,14 +86,7 @@ An AI-based email management system that analyzes email content, detects spam, p
 
 **Python · Machine Learning · Pandas · NumPy · Scikit-learn**
 
-Machine learning system for identifying potentially counterfeit products using transactional and behavioral data.
-
-**Key areas:**
-- Data preprocessing
-- Feature analysis
-- Machine learning classification
-- Model evaluation
-- Product authenticity prediction
+A machine learning project for identifying potentially counterfeit products using transactional and behavioral data.
 
 ---
 
@@ -116,7 +94,7 @@ Machine learning system for identifying potentially counterfeit products using t
 
 **React.js · JavaScript**
 
-A web application for digitizing student leave requests and faculty approval workflows.
+A web application for digitizing student leave request submission and faculty approval workflows.
 
 ---
 
@@ -124,7 +102,7 @@ A web application for digitizing student leave requests and faculty approval wor
 
 **ESP8266 · RFID · IoT · Servo Motor · OLED**
 
-An IoT-based smart locking system using RFID authentication for secure access control.
+An IoT-based secure access control system using RFID authentication.
 
 ---
 
@@ -132,9 +110,7 @@ An IoT-based smart locking system using RFID authentication for secure access co
 
 **HTML · CSS · SQL**
 
-A database-oriented application designed to manage and process medical reimbursement information.
-
----
+A database-oriented application for managing medical reimbursement information.
 
 ## 📊 GitHub Statistics
 
